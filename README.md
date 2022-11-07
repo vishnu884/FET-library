@@ -6,7 +6,7 @@ A Collection of Digital Library of both SChematic & Layout using 70nm FET
 
 ## Library 
 
-- [INV](https://github.com/Nived151/FET-DigitalLib/edit/main/README.md#inv)
+- [INV](https://github.com/vishnu884/FET-library/tree/main/INV)
 - [NAND](https://github.com/Nived151/FET-DigitalLib/edit/main/README.md#nand)
 - [NOR](https://github.com/Nived151/FET-DigitalLib/edit/main/README.md#NOR)
 - [XOR](https://github.com/Nived151/FET-DigitalLib/edit/main/README.md#XOR)
