@@ -100,7 +100,7 @@ A Collection of Digital Library of both SChematic & Layout using 70nm FET
 <br/>
 
 
-## AOAI 211
+## AOAI211
 ### Schematic
 <p align="center">
 <img src="https://raw.githubusercontent.com/Nived151/FET-DigitalLib/main/Images/Schematic/AOAI211_SCHM.png" width= "60%" height= "30%">
