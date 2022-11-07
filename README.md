@@ -7,13 +7,13 @@ A Collection of Digital Library of both SChematic & Layout using 70nm FET
 ## Library 
 
 - [INV](https://github.com/vishnu884/FET-library/tree/main/INV)
-- [NAND](https://github.com/Nived151/FET-DigitalLib/edit/main/README.md#nand)
-- [NOR](https://github.com/Nived151/FET-DigitalLib/edit/main/README.md#NOR)
-- [XOR](https://github.com/Nived151/FET-DigitalLib/edit/main/README.md#XOR)
-- [MUX 2:1](https://github.com/Nived151/FET-DigitalLib/edit/main/README.md#MUX-21)
-- [AOI 21](https://github.com/Nived151/FET-DigitalLib/edit/main/README.md#AOI-21)
-- [OAI 22](https://github.com/Nived151/FET-DigitalLib/edit/main/README.md#OAI-22)
-- [AOAI 211](https://github.com/Nived151/FET-DigitalLib/edit/main/README.md#AOAI-211)
+- [NAND](https://github.com/vishnu884/FET-library/tree/main/NAND2)
+- [NOR](https://github.com/vishnu884/FET-library/tree/main/NOR2)
+- [XOR](https://github.com/vishnu884/FET-library/tree/main/XOR2)
+- [MUX 2:1](https://github.com/vishnu884/FET-library/tree/main/MUX2:1)
+- [AOI 21](https://github.com/vishnu884/FET-library/tree/main/AOI21)
+- [OAI 22](https://github.com/vishnu884/FET-library/tree/main/OAI22)
+- [AOAI211](https://github.com/vishnu884/FET-library/tree/main/AOAI211)
 <br/>
 <br/>
 
